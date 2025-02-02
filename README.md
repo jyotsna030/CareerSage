@@ -49,7 +49,7 @@ The objective of CareerSage is to develop and deploy an efficient RAG solution f
 
 ![Alt text](./arch.jpg)
 
-[![Demo](https://img.shields.io/badge/Demo_Link-808080?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/ChYG-aspZIg)
+[![Demo](https://img.shields.io/badge/Demo_Link-808080?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/2BsVQl8_QgM?si=-o8Bq_2TD7hTVZPJ)
 
 
 ## Prerequisites
