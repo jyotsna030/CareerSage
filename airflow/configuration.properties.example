@@ -1,0 +1,15 @@
+[AWS]
+access_key = 
+secret_key = 
+region_name = 
+bucket = 
+
+[SNOWFLAKE]
+user = 
+password = 
+account = 
+warehouse = 
+database = 
+schema = 
+role = 
+jobs_table = 

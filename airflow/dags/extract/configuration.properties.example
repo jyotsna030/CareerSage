@@ -1,0 +1,37 @@
+[auth-api]
+SECRET_KEY = <value>
+ALGORITHM = <value>
+
+[MongoDB]
+mongo_url = <value>
+db_name = <value>
+collection_name = <value>
+collection_name_markdown = <value>
+
+[airflow]
+base_url_airflow = <value>
+password = <value>
+username = <value>
+
+[AWS]
+access_key = <value>
+secret_key = <value>
+region_name = <value>
+bucket = <value>
+
+[SNOWFLAKE]
+user = <value>
+password = <value>
+account = <value>
+warehouse = <value>
+database = <value>
+schema = <value>
+role = <value>
+jobsTable = <value>
+
+[OPENAI]
+api_key = <value>
+
+[PINECONE]
+pinecone_api_key = <value>
+index = <value>
